@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# cdong
+Thư viện CSS chuyên cho chuyển động Animation - cdong viết tắc cho từng Chuyển động
 
-You can use the [editor on GitHub](https://github.com/huynhtuson/cdong/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The second largest heading
+Tạo ra 1 thư viện bằng và dễ dùng bằng tiếng việt dễ gọi, dễ nhớ:
 
-### Markdown
+Ví dụ:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:
+> `"cdong nhay"` sẽ tạo ra đối tượng ***chuyển động*** **nhảy**
 
-```markdown
-Syntax highlighted code block
+code:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+<div class="cdong nhay">
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huynhtuson/cdong/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###### Source Đang viết, có ai đi ngang qua thì thông tin gì thì hãy liên hệ nhé.

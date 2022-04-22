@@ -8,7 +8,7 @@ Tạo ra 1 thư viện bằng và dễ dùng bằng tiếng việt dễ gọi, d
 Ví dụ:
 
 :
-`"cdong nhay"` sẽ tạo ra đối tượng chuyển động
+> `"cdong nhay"` sẽ tạo ra đối tượng ***chuyển động*** **nhảy**
 
 code:
 
